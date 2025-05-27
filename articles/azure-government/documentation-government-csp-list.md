@@ -102,7 +102,7 @@ The following tables contain lists of all the authorized Cloud Solution Provider
 |[Cherokee Nation System Solutions LLC](https://cherokee-federal.com/companies/cherokee-nation-system-solutions)|
 |[Ciellos Inc.](https://www.ciellos.com/)|
 |[Ciracom Inc.](https://www.ciracomcloud.com)|
-|[ciyis](https://ciyis.net)|
+|[CIYIS LLC](https://ciyis.net)|
 |[Clients First Business Solutions LLC](https://www.clientsfirst-us.com)|
 |[ClearShark](https://clearshark.com/)|
 |[CloudFit Software, LLC](https://www.cloudfitsoftware.com/)|
